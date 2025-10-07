@@ -13,4 +13,8 @@ heroImage: { src: './Tian_banner.png', alt: 'an image targetting my article', co
 
 从这里开始，尽情创造吧！
 
-日拱一卒，功不唐捐。
+日拱一卒，功不唐捐。[^1]
+
+---
+
+[^1]: Hero Image: https://www.pixiv.net/artworks/111335141
