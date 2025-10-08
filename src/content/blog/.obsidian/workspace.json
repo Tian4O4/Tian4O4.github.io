@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to my blog/Welcome to my blog.md",
+                "file": "周记 Week1/周记 Week1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome to my blog"
+              "title": "周记 Week1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 282.5
   },
   "right": {
     "id": "f323e3d02ebe45f4",
@@ -171,9 +171,13 @@
   },
   "active": "297f171bf59e0a28",
   "lastOpenFiles": [
-    "Welcome to my blog/Tian_banner.png",
-    "markdown-zh/index.md",
     "Welcome to my blog/Welcome to my blog.md",
+    "周记 Week1/周记 Week1.md",
+    "周记 Week1/Week1.jpg",
+    "Welcome to my blog/Tian_banner.png",
+    "周记 Week1/111024784_p0_master1200.jpg",
+    "周记 Week1",
+    "markdown-zh/index.md",
     "markdown-zh/thumbnail.jpg",
     "markdown-zh",
     "index.md",
