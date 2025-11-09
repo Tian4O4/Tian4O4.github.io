@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week4/Week4.md",
+                "file": "Week5/Week5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week4"
+              "title": "Week5"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "297f171bf59e0a28",
   "lastOpenFiles": [
-    "Week3/Week3.md",
     "Week4/Week4.md",
+    "Week5/Week5.md",
+    "Week5/Week5.jpg",
+    "Week5/135552591_p0_master1200.jpg",
+    "Week5",
+    "Week3/Week3.md",
     "Week4/Week4.jpg",
     "Week4",
     "具身智能计算架构与芯片.md",
@@ -188,8 +192,6 @@
     "周记 Week2/Weeeeeek2.jpg",
     "周记 Week1/Week1.jpg",
     "Welcome to my blog/Welcome to my blog.md",
-    "Welcome to my blog/Tian_banner.png",
-    "周记 Week2/136458242_p0_master1200.jpg",
     "周记 Week1",
     "markdown-zh/index.md",
     "markdown-zh",
