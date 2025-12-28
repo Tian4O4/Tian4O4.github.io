@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "f323e3d02ebe45f4",
@@ -171,14 +172,15 @@
   },
   "active": "297f171bf59e0a28",
   "lastOpenFiles": [
-    "Week12/Week12.jpg.~tmp",
+    "Week10/Week10.md",
     "Week11/Week11.md",
+    "Week12/Week12.md",
+    "Week12/Week12.jpg.~tmp",
     "Week12/Week12.jpg",
     "Week12/Week12.jpg.crdownload",
     "Week11/Week11.jpg.crdownload",
     "Week11/Week11.jpg",
     "Week11/Week11.jpg.~tmp",
-    "Week10/Week10.md",
     "Week9/Week9.md",
     "Week10/Week10.jpg.~tmp",
     "Week8/Week8.md",
@@ -202,7 +204,6 @@
     "Week9/Week9.jpg.~tmp",
     "Week9/Week9.jpg.crdownload",
     "Week8",
-    "Week7/Week7.jpg.crdownload",
     "具身智能计算架构与芯片.md",
     "周记 Week1/周记 Week1.md",
     "周记 Week2/周记 Week2.md",
