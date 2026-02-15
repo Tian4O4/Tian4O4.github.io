@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week16/Week16.md",
+                "file": "Week17/Week17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week16"
+              "title": "Week17"
             }
           }
         ]
@@ -171,18 +171,22 @@
   },
   "active": "297f171bf59e0a28",
   "lastOpenFiles": [
-    "Week15/Week15.md",
-    "Week16/Week16.jpg",
+    "Week17/Week17.jpg.~tmp",
+    "Week17/Week17.jpg",
+    "Week17/Week17.jpg.crdownload",
     "Week16/Week16.md",
+    "Week17/Week17.md",
+    "Week16/Week16.jpg",
+    "Week15/Week15.md",
+    "Week15/Week15.jpg",
+    "Week14/Week14.md",
+    "Week14/Week14.jpg",
     "Week16/Week15.md",
     "Week16/Week16.jpg.crdownload",
     "Week16",
     "新建文件夹",
     "Week15/Week15.jpg.~tmp",
-    "Week15/Week15.jpg",
     "Week15/Week15.jpg.crdownload",
-    "Week14/Week14.md",
-    "Week14/Week14.jpg",
     "Week14/Week14.jpg.crdownload",
     "Week13/Week13.md",
     "Week14",
@@ -195,7 +199,6 @@
     "Week8/Week8.md",
     "Week12/Week12.md",
     "Week12/Week12.jpg",
-    "Week13",
     "Week10/Week10.md",
     "Week11/Week11.md",
     "Week11/Week11.jpg",
@@ -207,7 +210,6 @@
     "Week1/Week1.md",
     "Week9/Week9.jpg",
     "Week10/Week10.jpg",
-    "Week1/Week1.jpg",
     "具身智能计算架构与芯片.md",
     "周记 Week1/周记 Week1.md",
     "周记 Week2/周记 Week2.md",

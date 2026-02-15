@@ -30,4 +30,4 @@ heroImage:
 
 ---
 
-[^1]: Hero Image:https://www.pixiv.net/artworks/139340363
+[^1]: Hero Image:https://www.pixiv.net/artworks/126591726
