@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "f323e3d02ebe45f4",
@@ -171,13 +172,13 @@
   },
   "active": "297f171bf59e0a28",
   "lastOpenFiles": [
+    "Week16/Week16.md",
+    "Week15/Week15.md",
+    "Week17/Week17.md",
     "Week17/Week17.jpg.~tmp",
     "Week17/Week17.jpg",
     "Week17/Week17.jpg.crdownload",
-    "Week16/Week16.md",
-    "Week17/Week17.md",
     "Week16/Week16.jpg",
-    "Week15/Week15.md",
     "Week15/Week15.jpg",
     "Week14/Week14.md",
     "Week14/Week14.jpg",
@@ -192,7 +193,6 @@
     "Week14",
     "Week13/Week13.jpg.~tmp",
     "Week13/Week13.jpg",
-    "Week13/Week13.jpg.crdownload",
     "Week4/Week4.md",
     "Week4/Week4.jpg",
     "Week7/Week7.md",
