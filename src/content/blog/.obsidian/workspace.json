@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week17/Week17.md",
+                "file": "Week18/Week17.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "f323e3d02ebe45f4",
@@ -172,11 +171,16 @@
   },
   "active": "297f171bf59e0a28",
   "lastOpenFiles": [
+    "Week18/Week18.jpg.~tmp",
+    "Week17/Week17.md",
+    "Week18/Week17.md",
+    "Week18/Week18.jpg",
+    "Week18/Week18.jpg.crdownload",
+    "Week17/Week17.jpg",
+    "Week18",
     "Week16/Week16.md",
     "Week15/Week15.md",
-    "Week17/Week17.md",
     "Week17/Week17.jpg.~tmp",
-    "Week17/Week17.jpg",
     "Week17/Week17.jpg.crdownload",
     "Week16/Week16.jpg",
     "Week15/Week15.jpg",
@@ -190,8 +194,6 @@
     "Week15/Week15.jpg.crdownload",
     "Week14/Week14.jpg.crdownload",
     "Week13/Week13.md",
-    "Week14",
-    "Week13/Week13.jpg.~tmp",
     "Week13/Week13.jpg",
     "Week4/Week4.md",
     "Week4/Week4.jpg",
@@ -209,13 +211,11 @@
     "Week2/Week2.md",
     "Week1/Week1.md",
     "Week9/Week9.jpg",
-    "Week10/Week10.jpg",
     "具身智能计算架构与芯片.md",
     "周记 Week1/周记 Week1.md",
     "周记 Week2/周记 Week2.md",
     "Welcome to my blog/Welcome to my blog.md",
     "markdown-zh/index.md",
-    "index.md",
-    "Welcome to my blog.md"
+    "index.md"
   ]
 }
